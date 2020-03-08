@@ -13,4 +13,21 @@ Lesson1: https://zhuanlan.zhihu.com/p/32643685
   4，dockerfile + configuration management
   
   Docker分层。写时复制。
-  
+-----------------------------------------
+git命令示例
+$ git clone git://github.com/git/hello-world.git
+$ cd hello-world
+$ (edit files)
+$ git add (files)
+$ git commit -m 'Explain what I changed'  #(local)
+$ git format-patch origin/master
+$ git push           #(remote)
+$ git status
+
+$ cd (project-directory)
+ ——————————————————————————————————————————————————————————
+$ git init
+$ (add some files)
+$ git add .
+$ git commit -m 'Initial commit' 
+$ git status
