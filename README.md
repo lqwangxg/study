@@ -31,3 +31,6 @@ $ (add some files)
 $ git add .
 $ git commit -m 'Initial commit' 
 $ git status
+
+IBM Shifter介绍：高性能计算集群下的docker应用
+https://www.ibm.com/developerworks/cn/linux/l-panxun-shifter-compute-container/index.html
